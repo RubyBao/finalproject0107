@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 * {
   font-family: 微軟正黑體;
 }
@@ -22,7 +22,7 @@ h4 {
 header.jumbotron {
   margin-bottom: 0px;
   text-align: center;
-  background-image: url(https://cdn.pixabay.com/photo/2016/09/18/09/53/sea-1677645_1280.jpg);
+  background-image: url(../img/1.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
